@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36202.13 d17.14
+VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{E6E1F9FF-FC99-4584-B411-FB18EDFC80E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashtable", "..\..\New\hashtable\hashtable.csproj", "{B8BBA190-58A0-6562-5182-FEEA50D9BB9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2", "..\Bai2\Bai2.csproj", "{934703A7-BC8E-41D1-8438-82D5E85A8949}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E6E1F9FF-FC99-4584-B411-FB18EDFC80E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6E1F9FF-FC99-4584-B411-FB18EDFC80E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6E1F9FF-FC99-4584-B411-FB18EDFC80E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8BBA190-58A0-6562-5182-FEEA50D9BB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BBA190-58A0-6562-5182-FEEA50D9BB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BBA190-58A0-6562-5182-FEEA50D9BB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BBA190-58A0-6562-5182-FEEA50D9BB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934703A7-BC8E-41D1-8438-82D5E85A8949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934703A7-BC8E-41D1-8438-82D5E85A8949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934703A7-BC8E-41D1-8438-82D5E85A8949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934703A7-BC8E-41D1-8438-82D5E85A8949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
