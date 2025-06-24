@@ -72,6 +72,15 @@
                     Console.WriteLine("Không tìm thấy sinh viên với mã này để xóa.");
                 }
             }
+        public static void Top5SinhVien(List<SinhVien> sinhvien)
+        {
+            var top5 = sinhvien.OrderByDescending(s => s.Diem).Take(5).ToList();
+            Console.WriteLine("Top 5 sinh viên có điểm cao nhất:");
+            foreach (var sv in top5)
+            {
+                Console.WriteLine(sv);
+            }
+        }
             public override string ToString()
             {
                 

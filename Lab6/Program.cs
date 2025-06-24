@@ -1,6 +1,7 @@
 ﻿using System.Text.Json;
 using System.Text;
 using Lab6;
+using System.Runtime.CompilerServices;
 
 class Program
 {
@@ -54,8 +55,22 @@ class Program
                 };
         SinhVien.ThemSinhVien(sinhVienList);
         SinhVien.XoaSinhVien(sinhVienList);
+        SinhVien.Top5SinhVien(sinhVienList);
 
         SendSinhVienListToFirebaseAsync(sinhVienList).GetAwaiter().GetResult();
         GetSinhVienListFromFirebaseAsync().GetAwaiter().GetResult();
+    }
+    static async Task SendTop5SinhVienToFirebaseAsync(List<SinhVien> sinhVien)
+    {
+        string databaseUrl = "https://fir-bcb83-default-rtdb.asia-southeast1.firebasedatabase.app/";
+        string node = "top5";
+        using var httpClient = new HttpClient();
+
+        // Get top 5 students by Diem descending
+        var top5 = sinhVien.OrderByDescending(sv => sv.Diem).Take(5).ToList();
+        var json = JsonSerializer.Serialize(top5);
+        var content = new StringContent(json, Encoding.UTF8, "application/json");
+        var response = await httpClient.PutAsync($"{databaseUrl}/{node}.json", content);
+        response.EnsureSuccessStatusCode();
     }
 }
