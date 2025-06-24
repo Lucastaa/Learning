@@ -1,0 +1,15 @@
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\bin\Debug\net9.0\EventsDelegate.exe
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\bin\Debug\net9.0\EventsDelegate.deps.json
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\bin\Debug\net9.0\EventsDelegate.runtimeconfig.json
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\bin\Debug\net9.0\EventsDelegate.dll
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\bin\Debug\net9.0\EventsDelegate.pdb
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\obj\Debug\net9.0\EventsDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\obj\Debug\net9.0\EventsDelegate.AssemblyInfoInputs.cache
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\obj\Debug\net9.0\EventsDelegate.AssemblyInfo.cs
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\obj\Debug\net9.0\EventsDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\obj\Debug\net9.0\EventsDelegate.sourcelink.json
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\obj\Debug\net9.0\EventsDelegate.dll
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\obj\Debug\net9.0\refint\EventsDelegate.dll
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\obj\Debug\net9.0\EventsDelegate.pdb
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\obj\Debug\net9.0\EventsDelegate.genruntimeconfig.cache
+C:\Users\Predator\Documents\GitHub\Learning\Lab2\EventsDelegate\obj\Debug\net9.0\ref\EventsDelegate.dll

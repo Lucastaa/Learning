@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "368153690152",
+    "firebase_url": "https://fir-bcb83-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-bcb83",
+    "storage_bucket": "fir-bcb83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368153690152:android:0af5e218e2b2939333f51d",
+        "android_client_info": {
+          "package_name": "School.vtc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbO1bmVDn98qkkKHKEgmC044Y9zgdVMhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
