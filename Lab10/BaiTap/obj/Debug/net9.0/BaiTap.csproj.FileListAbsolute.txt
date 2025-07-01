@@ -1,0 +1,15 @@
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\bin\Debug\net9.0\BaiTap.exe
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\bin\Debug\net9.0\BaiTap.deps.json
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\bin\Debug\net9.0\BaiTap.runtimeconfig.json
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\bin\Debug\net9.0\BaiTap.dll
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\bin\Debug\net9.0\BaiTap.pdb
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\obj\Debug\net9.0\BaiTap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\obj\Debug\net9.0\BaiTap.AssemblyInfoInputs.cache
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\obj\Debug\net9.0\BaiTap.AssemblyInfo.cs
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\obj\Debug\net9.0\BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\obj\Debug\net9.0\BaiTap.sourcelink.json
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\obj\Debug\net9.0\BaiTap.dll
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\obj\Debug\net9.0\refint\BaiTap.dll
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\obj\Debug\net9.0\BaiTap.pdb
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\obj\Debug\net9.0\BaiTap.genruntimeconfig.cache
+C:\Users\Predator\Documents\GitHub\Learning\Lab10\BaiTap\obj\Debug\net9.0\ref\BaiTap.dll
