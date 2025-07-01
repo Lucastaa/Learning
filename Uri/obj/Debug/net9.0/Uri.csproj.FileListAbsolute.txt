@@ -1,0 +1,15 @@
+C:\Users\Predator\Documents\GitHub\Learning\Uri\bin\Debug\net9.0\Uri.exe
+C:\Users\Predator\Documents\GitHub\Learning\Uri\bin\Debug\net9.0\Uri.deps.json
+C:\Users\Predator\Documents\GitHub\Learning\Uri\bin\Debug\net9.0\Uri.runtimeconfig.json
+C:\Users\Predator\Documents\GitHub\Learning\Uri\bin\Debug\net9.0\Uri.dll
+C:\Users\Predator\Documents\GitHub\Learning\Uri\bin\Debug\net9.0\Uri.pdb
+C:\Users\Predator\Documents\GitHub\Learning\Uri\obj\Debug\net9.0\Uri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predator\Documents\GitHub\Learning\Uri\obj\Debug\net9.0\Uri.AssemblyInfoInputs.cache
+C:\Users\Predator\Documents\GitHub\Learning\Uri\obj\Debug\net9.0\Uri.AssemblyInfo.cs
+C:\Users\Predator\Documents\GitHub\Learning\Uri\obj\Debug\net9.0\Uri.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Documents\GitHub\Learning\Uri\obj\Debug\net9.0\Uri.sourcelink.json
+C:\Users\Predator\Documents\GitHub\Learning\Uri\obj\Debug\net9.0\Uri.dll
+C:\Users\Predator\Documents\GitHub\Learning\Uri\obj\Debug\net9.0\refint\Uri.dll
+C:\Users\Predator\Documents\GitHub\Learning\Uri\obj\Debug\net9.0\Uri.pdb
+C:\Users\Predator\Documents\GitHub\Learning\Uri\obj\Debug\net9.0\Uri.genruntimeconfig.cache
+C:\Users\Predator\Documents\GitHub\Learning\Uri\obj\Debug\net9.0\ref\Uri.dll

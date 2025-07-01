@@ -8,6 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="C:\Users\Predator\Desktop\Player.cs" Link="Player.cs" />
+    <Compile Include="C:\Users\Predator\Desktop\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="FirebaseAdmin" Version="3.2.0" />
     <PackageReference Include="FirebaseDatabase.net" Version="5.0.0" />
   </ItemGroup>

@@ -1,0 +1,15 @@
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\bin\Debug\net9.0\PlayerInfo.exe
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\bin\Debug\net9.0\PlayerInfo.deps.json
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\bin\Debug\net9.0\PlayerInfo.runtimeconfig.json
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\bin\Debug\net9.0\PlayerInfo.dll
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\bin\Debug\net9.0\PlayerInfo.pdb
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\obj\Debug\net9.0\PlayerInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\obj\Debug\net9.0\PlayerInfo.AssemblyInfoInputs.cache
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\obj\Debug\net9.0\PlayerInfo.AssemblyInfo.cs
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\obj\Debug\net9.0\PlayerInfo.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\obj\Debug\net9.0\PlayerInfo.sourcelink.json
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\obj\Debug\net9.0\PlayerInfo.dll
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\obj\Debug\net9.0\refint\PlayerInfo.dll
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\obj\Debug\net9.0\PlayerInfo.pdb
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\obj\Debug\net9.0\PlayerInfo.genruntimeconfig.cache
+C:\Users\Predator\Documents\GitHub\Learning\SemiFinal\PlayerInfo\obj\Debug\net9.0\ref\PlayerInfo.dll
