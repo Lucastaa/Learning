@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{3E348482-57D4-47D5-8D74-181AABF7FEB5}|Lab10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E348482-57D4-47D5-8D74-181AABF7FEB5}|Lab10.csproj|c:\\users\\predator\\documents\\github\\learning\\lab10\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E348482-57D4-47D5-8D74-181AABF7FEB5}|Lab10.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E348482-57D4-47D5-8D74-181AABF7FEB5}|Lab10.csproj|c:\\users\\predator\\documents\\github\\learning\\lab10\\nganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E348482-57D4-47D5-8D74-181AABF7FEB5}|Lab10.csproj|solutionrelative:nganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E348482-57D4-47D5-8D74-181AABF7FEB5}|Lab10.csproj|c:\\users\\predator\\documents\\github\\learning\\lab10\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E348482-57D4-47D5-8D74-181AABF7FEB5}|Lab10.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E348482-57D4-47D5-8D74-181AABF7FEB5}|Lab10.csproj|c:\\users\\predator\\documents\\github\\learning\\lab10\\linq.ahk||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -34,15 +34,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Nganh.cs",
               "DocumentMoniker": "C:\\Users\\Predator\\Documents\\GitHub\\Learning\\Lab10\\Nganh.cs",
               "RelativeDocumentMoniker": "Nganh.cs",
               "ToolTip": "C:\\Users\\Predator\\Documents\\GitHub\\Learning\\Lab10\\Nganh.cs",
               "RelativeToolTip": "Nganh.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T02:30:30.025Z"
+              "WhenOpened": "2025-07-01T02:30:30.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,13 +53,14 @@
               "RelativeDocumentMoniker": "LinQ.ahk",
               "ToolTip": "C:\\Users\\Predator\\Documents\\GitHub\\Learning\\Lab10\\LinQ.ahk",
               "RelativeToolTip": "LinQ.ahk",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAiwFsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAEIAAAAdAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMHSURBVDhPlVVLT1NREP4ufbdQ2kIVQSpIAigUIWiRYGKM0YXRkGBg4YI/oBuXrlxpXLghxKULNz4W7owSolGjYaE1JryEBOQVKsVS7LvQx3Xm9N6mtUJ0ki8zZ87Md\u002BaR3kpQ5PzAzdHOvoHryvFfJE348urJnduz3rFx4ZFlWSsMRVobbLjQ61JO4h5ZmTWEZmTYnwV2s9BMLCba\u002Bp13Rw6\u002BbHn49unIfUiSpMmlAkeP9V7q6fF4\u002BjprUVluQIXFgHKzHuWsVZgNsJA2E4xGvTT9E/qIZK\u002BWgmGDfnku7osGZsoUvryIqqiUDIMrYlBF6QKbwdUeqtSizqZBk8Pe3lzlGuD8IkLRGicTYtEEduI7yFC2SsKkyeQuEtE4tZ3F6QY9LreZcKJO56D0RuYoqZBnxK8veKexOreEeIxIFR9jc2kNi58nEY/EkeLH6I7ceSkipCLylcx\u002B8GLqzQR8Cys5H4Oyf8wvY2rsHVa\u002BziDJHZCfR6FKMSFdiERCKLCN4PomIsGwOPNM0zSTeCSGXz4/wv4A0rtpQchjUqVkhiKAtLDpkE5lyJelapKIBkPYifH8iFz4c9VxrCqlhAwKFHYqTQuIIuTfgv/7KtYmv2HbtyFi\u002BdEUgceQKWAsJiQwIc\u002BQJbC8Bu\u002BzF3h\u002B6x7eP3iE\u002BdcfEVr3izvukkn3XYogpCgG2xaHDfWeTpwaHsTJ4SG0X70CZ2uzuBNk3DIZbKvy95YJbBusFahuaoTL043arg44j7fAXF1VErsnIV\u002BoW9aZjAQTynR6yBotJUrklyHpdNAYjWKzYjyk969QtAHYj9TDcsBJZJp8axkamLHKDquLPiBabS6efHsTEnghHNB66SLcg/2o6XDnKiHwApxuN9quDeHw2TOAySyWw3mqlBCqv2Wd1QqDzUbtmUSr/AhXKtFZb3dAa6mATB8r0TKzKrLnUtRt868jd1ag2gW6gA/5D6wcCyPpW4d/XlIqzVXFwUL/AX5ctROBgOBgyf8FnGvoHu2qab6hHP9bNqJbnx5Pj/f8Bg126fjmYwreAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-07-01T02:08:04.074Z"
+              "WhenOpened": "2025-07-01T02:08:04.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SinhVien.cs",
               "DocumentMoniker": "C:\\Users\\Predator\\Documents\\GitHub\\Learning\\Lab10\\SinhVien.cs",
               "RelativeDocumentMoniker": "SinhVien.cs",
@@ -66,7 +68,8 @@
               "RelativeToolTip": "SinhVien.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T01:48:16.918Z"
+              "WhenOpened": "2025-07-01T01:48:16.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,7 +79,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Predator\\Documents\\GitHub\\Learning\\Lab10\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwHQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T01:43:02.147Z",
               "EditorCaption": ""

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Predator\\Documents\\GitHub\\Learning\\Lab12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00F29BEA-71F4-46D8-AA39-E93B33ECA449}|Lab12.csproj|c:\\users\\predator\\documents\\github\\learning\\lab12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F29BEA-71F4-46D8-AA39-E93B33ECA449}|Lab12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00F29BEA-71F4-46D8-AA39-E93B33ECA449}|Lab12.csproj|c:\\users\\predator\\documents\\github\\learning\\lab12\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00F29BEA-71F4-46D8-AA39-E93B33ECA449}|Lab12.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Documents\\GitHub\\Learning\\Lab12\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Predator\\Documents\\GitHub\\Learning\\Lab12\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:52:45.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Documents\\GitHub\\Learning\\Lab12\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Predator\\Documents\\GitHub\\Learning\\Lab12\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAkwJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:41:29.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

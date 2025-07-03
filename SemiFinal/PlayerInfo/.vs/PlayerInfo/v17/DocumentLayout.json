@@ -24,8 +24,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -34,7 +38,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Predator\\Documents\\GitHub\\Learning\\SemiFinal\\PlayerInfo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwE0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T03:54:15.544Z",
               "EditorCaption": ""
@@ -49,8 +53,7 @@
               "RelativeToolTip": "Player.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAiwGUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T03:54:27.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T03:54:27.001Z"
             },
             {
               "$type": "Document",
@@ -62,8 +65,7 @@
               "RelativeToolTip": "..\\..\\Lab6\\Program.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAuwGIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T03:53:34.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T03:53:34.669Z"
             },
             {
               "$type": "Document",
@@ -75,8 +77,7 @@
               "RelativeToolTip": "..\\..\\Lab6\\Player.cs",
               "ViewState": "AgIAAHcAAAAAAAAAAAAuwJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T03:53:29.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T03:53:29.03Z"
             }
           ]
         }
